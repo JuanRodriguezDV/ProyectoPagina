@@ -1,0 +1,20 @@
+{
+  "name": "proyectopagina",
+  "version": "1.0.0",
+  "description": "Pagina para temas de contabilidad y manejo de inventarios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanRodriguezDV/ProyectoPagina.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanRodriguezDV/ProyectoPagina/issues"
+  },
+  "homepage": "https://github.com/JuanRodriguezDV/ProyectoPagina#readme"
+}
